@@ -21,5 +21,4 @@ Brown = 1%, Red = 2%, Gold = 5%, Silver = 10 %
 
 If resistor has no fourth tolerance band then the default tolerance would be at 20%.
 
-It is sometimes easier to remember the resistor colour code by using mnemonics or phrases that have a separate word in the phrase to represent each of the Ten + Two colours in the code. However, these sayings are often very crude but never the less effective for remembering the resistor colours. Here are just a few of the more “cleaner” versions but many more exist:
 
